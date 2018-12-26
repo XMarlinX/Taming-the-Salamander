@@ -1,2 +1,2 @@
 # Taming-the-Salamander
-A work in progress that chronicles the hisory of gerrymandering.
+A work in progress that chronicles the history of gerrymandering.
